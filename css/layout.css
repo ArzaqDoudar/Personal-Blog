@@ -110,6 +110,10 @@
     margin-left: auto;
 }
 
+.margin-bottom-auto {
+    margin-bottom: auto;
+}
+
 /* Small screen */
 @media (min-width: 576px) {
 
