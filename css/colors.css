@@ -3,25 +3,6 @@
     background-color: transparent;
 }
 
-.bg-red {
-    background-color: rgb(170, 1, 1);
-}
-
-.bg-blue {
-    background-color: rgb(2, 2, 199);
-}
-
-.bg-green {
-    background-color: #008000;
-}
-
-.bg-yellow {
-    background-color: #ffff00;
-}
-
-.bg-violet {
-    background-color: #ee82ee;
-}
 
 .bg-black {
     background-color: #000;
@@ -67,4 +48,16 @@
 
 .color-primary {
     color: #56c2dc;
+}
+
+.bg-purple {
+    background-color: #9b4dca;
+}
+
+.bg-gray-1 {
+    background-color: #606c76;
+}
+
+.bg-gray-2 {
+    background-color: #d1d1d1;
 }
