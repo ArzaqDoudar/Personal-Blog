@@ -106,7 +106,9 @@
     gap: 5rem
 }
 
-
+.margin-left-auto {
+    margin-left: auto;
+}
 
 /* Small screen */
 @media (min-width: 576px) {
